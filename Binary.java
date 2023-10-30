@@ -1,4 +1,4 @@
-//Linear Search program
+//Binary Search program
 
 class Binary
 {
